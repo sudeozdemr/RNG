@@ -1,9 +1,8 @@
-
-
+#Sude ÖZDEMİR
 
 import random
 
-greetings = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '200101066 Aleyna İmece', '200101060 Alican Yıldırım', '200101146 Alperen Kahraman', '180101036 Arda Mert Tarkan',
+ogr_list_OS = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '200101066 Aleyna İmece', '200101060 Alican Yıldırım', '200101146 Alperen Kahraman', '180101036 Arda Mert Tarkan',
              '200101023 Asım Batuhan Demir', '200101115 Ayberk Keskin', '180101048 Ayten Kocabıyık', '210101064 Bekir Tokaç', '200101028 Berkant Eruysal', '200101035 Bilal Elmas',
              '190101073 Bilal Erkam Yaman', '210101026 Cansu Kahraman', '200101046 Cihan Güloğlu', '190101064 Çağlar Devrim Eken', '200101037	Elif Nur Öksüz', '200101057 Enes Gökden',
              '200101073 Enes Şen','200101033 Enes Feyzi Ergin', '220101114 Esma Nur Aksoy', '190101022 Fatih Mücahit Ulus', '200101038 Ferdi Kanat', '210101012 Ferhat Oğuncer',
@@ -22,14 +21,14 @@ greetings = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '200
              '190101090 Lütfi Yiğit Sağlam', '170101040 Mahmut Furkan Yıldırım', '180101059 Medine İleyda Erdoğan', '180101051	Muhammet Emin Öztürk', '180101060 Muhammet Emir	Bulut',
              '180101005 Mücahit Sezgin', '190101041 Ömer Baki', '170101047 Ömer Faruk Taşcan', '190101046 Ruchan Yalçın', '190101039	Sefa Köse', '190101032 Sude Özdemir',
              '180101062	Şerefhan Dişek', '180101022 Şeyma Yıldırım', '200101025	Volkan	Acar', '190101043 Yunus Emre Çiçek', '210101098	Zal İbrahim Solmuş', '170101043	Zeyd Kadir Şen'
+]
+
+
+random_names = random.sample(ogr_list_OS, 8)
+
+for name in random_names:
+    print(name)
 
 
 
 
-
-
-
-    ]
-
-value = random.choice(greetings)
-print(value + ', Tebrikler -5 :)')
