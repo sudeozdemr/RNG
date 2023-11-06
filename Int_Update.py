@@ -2,7 +2,7 @@
 
 import random
 
-ogr_list = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '200101066 Aleyna İmece', '200101060 Alican Yıldırım', '200101146 Alperen Kahraman', '180101036 Arda Mert Tarkan',
+ogr_list_OS = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '200101066 Aleyna İmece', '200101060 Alican Yıldırım', '200101146 Alperen Kahraman', '180101036 Arda Mert Tarkan',
              '200101023 Asım Batuhan Demir', '200101115 Ayberk Keskin', '180101048 Ayten Kocabıyık', '210101064 Bekir Tokaç', '200101028 Berkant Eruysal', '200101035 Bilal Elmas',
              '190101073 Bilal Erkam Yaman', '210101026 Cansu Kahraman', '200101046 Cihan Güloğlu', '190101064 Çağlar Devrim Eken', '200101037	Elif Nur Öksüz', '200101057 Enes Gökden',
              '200101073 Enes Şen','200101033 Enes Feyzi Ergin', '220101114 Esma Nur Aksoy', '190101022 Fatih Mücahit Ulus', '200101038 Ferdi Kanat', '210101012 Ferhat Oğuncer',
@@ -24,7 +24,7 @@ ogr_list = [ '200101019 Abdulkadir Uygun', '200101024 Ahmet Serhat Fidan', '2001
 ]
 
 
-random_names = random.sample(ogr_list, 8)
+random_names = random.sample(ogr_list_OS, 8)
 
 for name in random_names:
     print(name)
