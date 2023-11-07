@@ -1,3 +1,4 @@
 # RandomNameGenerator
 Python_OS
-Sude ÖZDEMİR
+Sude Özdemir
+
