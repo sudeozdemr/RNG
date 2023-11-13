@@ -2,8 +2,8 @@ import csv
 import random
 
 try:
-    
-    file_path = input("Lütfen bir CSV filesı yolunu girin: ")
+   
+    file_path = input("Lütfen bir CSV dosyası yolunu girin: ")
 
     with open(file_path, 'r', newline='', encoding='utf-8') as file:
         csv_reader = csv.reader(file)
@@ -19,6 +19,6 @@ try:
             break
 
 except FileNotFoundError:
-    print(f"file bulunamadı: {file_path}. Lütfen geçerli bir file yolunu kontrol edin.")
+    print(f"Dosya bulunamadı: {file_path}. Lütfen geçerli bir dosya yolunu kontrol edin.")
 except Exception as eror:
-    print(f"Bir hata oluştu: {eror}")
+    print(f"Bir hata oluştu: {eror}") 
