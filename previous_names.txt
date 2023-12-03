@@ -1,0 +1,349 @@
+190101043 Yunus Emre Çiçek
+190101074 Furkan Korkmaz
+180101040 Nedim Görgü
+180101028 Halil İbrahim Çamur
+190101060 Ezgi Gün
+180101021 Ali Yılmaz
+180101056 Emirhan Tavus
+190101051 Muhammed Berkay Çınar
+180101048 Ayten Kocabıyık
+170101034 Muharrem Ademoğlu
+180101057 Emre Can Erol
+200101047 Caner Yıldırım
+180101079 Emrah Çurku
+190101097 Atilla Barlık
+190101023 Bekir Tarık Pehlivan
+150101059 İbrahim Yolcu
+190101072 Yusuf Sami Kaygusuz
+190101090 Lütfi Yiğit Sağlam
+190101026 Mehmet Alperen Civelekoğlu
+180101040 Nedim Görgü
+190101022 Fatih Mücahit Ulus
+190101066 Melike Gülşah Uğurlu
+190101038 Fatih Uzuntaş
+180101056 Emirhan Tavus
+170101031 Eda Nur Gümüş
+190101028 Mert Kahraman
+150101059 İbrahim Yolcu
+190101059 Furkan Koçak
+180101082 Erdinç Karaman
+190101095 Gürkan Özgel
+180101059 Medine İleyda Erdoğan
+180101079 Emrah Çurku
+190101047 Berk Savcıoğlu
+190101032 Sude Özdemir
+180101039 Muhammed Furkan Uysal
+180101057 Emre Can Erol
+190101048 Hüseyin Mete Çalışkan
+170101040 Mahmut Furkan Yıldırım
+200101047 Caner Yıldırım
+190101099 Hüseyin Uysal
+190101039 Sefa Köse
+180101005 Mücahit Sezgin
+190101031 Aleyna Soyer
+190101072 Yusuf Sami Kaygusuz
+180101034 Hüseyin Doğdu
+190101097 Atilla Barlık
+170101043 Zeyd Kadir Şen
+180101061 Oğuzhan Öztürk
+190101091 Merve Yavuz
+180101035 Özgür Aykutalp
+180101022 Şeyma Yıldırım
+190101074 Furkan Korkmaz
+180101053 Zeynep Rana Uyar
+190101071 Hacer Duz
+190101090 Lütfi Yiğit Sağlam
+180101048 Ayten Kocabıyık
+180101021 Ali Yılmaz
+190101040 Esra Özdemir
+190101067 Aysu Deliahmetoğlu
+190101051 Muhammed Berkay Çınar
+190101026 Mehmet Alperen Civelekoğlu
+180101051 Muhammet Emin Öztürk
+190101054 Nuray Bayrakdar
+180101028 Halil İbrahim Çamur
+190101060 Ezgi Gün
+180101060 Muhammet Emir Bulut
+180101052 İlkem Yaman
+190101025 Emir Yılmaz
+190101082 Fatih Şahin
+180101062 Şerefhan Dişek
+190101049 Ali Haydar Turgut
+170101034 Muharrem Ademoğlu
+190101050 Onur Arıkan
+170101049 Hasan Balcı
+190101037 Berkay Küçük
+170101019 Batuhan Kahya
+190101041 Ömer Baki
+180101023 Noyan Berkay Aşkın
+190101043 Yunus Emre Çiçek
+190101080 Emir Kösekul
+190101023 Bekir Tarık Pehlivan
+﻿
+200101070 Emine Beyzanur Şen
+200101025 Volkan Acar
+190101084 Canan Uzma
+190101074 Furkan Korkmaz
+180101051 Muhammet Emin Öztürk
+190101047 Berk Savcıoğlu
+190101028 Mert Kahraman
+190101080 Emir Kösekul
+190101097 Atilla Barlık
+180101079 Emrah Çurku
+190101082 Fatih Şahin
+180101034 Hüseyin Doğdu
+200101047 Caner Yıldırım
+150101059 İbrahim Yolcu
+190101043 Yunus Emre Çiçek
+190101050 Onur Arıkan
+190101071 Hacer Duz
+190101067 Aysu Deliahmetoğlu
+180101048 Ayten Kocabıyık
+180101062 Şerefhan Dişek
+190101041 Ömer Baki
+190101031 Aleyna Soyer
+180101023 Noyan Berkay Aşkın
+180101035 Özgür Aykutalp
+190101051 Muhammed Berkay Çınar
+170101040 Mahmut Furkan Yıldırım
+200101025 Volkan Acar
+180101022 Şeyma Yıldırım
+190101049 Ali Haydar Turgut
+180101040 Nedim Görgü
+190101040 Esra Özdemir
+180101056 Emirhan Tavus
+190101038 Fatih Uzuntaş
+190101048 Hüseyin Mete Çalışkan
+190101066 Melike Gülşah Uğurlu
+190101022 Fatih Mücahit Ulus
+190101026 Mehmet Alperen Civelekoğlu
+180101005 Mücahit Sezgin
+190101060 Ezgi Gün
+190101037 Berkay Küçük
+190101059 Furkan Koçak
+190101072 Yusuf Sami Kaygusuz
+180101082 Erdinç Karaman
+190101025 Emir Yılmaz
+190101054 Nuray Bayrakdar
+180101059 Medine İleyda Erdoğan
+170101019 Batuhan Kahya
+170101049 Hasan Balcı
+190101091 Merve Yavuz
+190101039 Sefa Köse
+170101031 Eda Nur Gümüş
+180101039 Muhammed Furkan Uysal
+180101021 Ali Yılmaz
+180101061 Oğuzhan Öztürk
+190101023 Bekir Tarık Pehlivan
+180101053 Zeynep Rana Uyar
+190101090 Lütfi Yiğit Sağlam
+180101060 Muhammet Emir Bulut
+200101070 Emine Beyzanur Şen
+180101028 Halil İbrahim Çamur
+170101034 Muharrem Ademoğlu
+180101057 Emre Can Erol
+190101084 Canan Uzma
+﻿
+180101052 İlkem Yaman
+170101043 Zeyd Kadir Şen
+190101099 Hüseyin Uysal
+190101032 Sude Özdemir
+190101095 Gürkan Özgel
+180101052 İlkem Yaman
+170101034 Muharrem Ademoğlu
+190101072 Yusuf Sami Kaygusuz
+190101067 Aysu Deliahmetoğlu
+190101050 Onur Arıkan
+190101071 Hacer Duz
+180101079 Emrah Çurku
+180101061 Oğuzhan Öztürk
+190101059 Furkan Koçak
+180101062 Şerefhan Dişek
+190101048 Hüseyin Mete Çalışkan
+190101080 Emir Kösekul
+200101047 Caner Yıldırım
+180101021 Ali Yılmaz
+170101049 Hasan Balcı
+170101040 Mahmut Furkan Yıldırım
+180101034 Hüseyin Doğdu
+190101037 Berkay Küçük
+190101074 Furkan Korkmaz
+180101048 Ayten Kocabıyık
+190101047 Berk Savcıoğlu
+190101051 Muhammed Berkay Çınar
+170101043 Zeyd Kadir Şen
+190101091 Merve Yavuz
+190101025 Emir Yılmaz
+180101040 Nedim Görgü
+190101097 Atilla Barlık
+190101041 Ömer Baki
+190101049 Ali Haydar Turgut
+190101043 Yunus Emre Çiçek
+180101051 Muhammet Emin Öztürk
+190101082 Fatih Şahin
+170101019 Batuhan Kahya
+180101035 Özgür Aykutalp
+190101099 Hüseyin Uysal
+200101025 Volkan Acar
+180101056 Emirhan Tavus
+190101028 Mert Kahraman
+190101095 Gürkan Özgel
+190101039 Sefa Köse
+190101066 Melike Gülşah Uğurlu
+180101028 Halil İbrahim Çamur
+190101023 Bekir Tarık Pehlivan
+190101090 Lütfi Yiğit Sağlam
+190101032 Sude Özdemir
+180101005 Mücahit Sezgin
+190101060 Ezgi Gün
+190101026 Mehmet Alperen Civelekoğlu
+190101022 Fatih Mücahit Ulus
+180101023 Noyan Berkay Aşkın
+180101082 Erdinç Karaman
+﻿
+180101057 Emre Can Erol
+150101059 İbrahim Yolcu
+190101040 Esra Özdemir
+180101059 Medine İleyda Erdoğan
+180101053 Zeynep Rana Uyar
+180101039 Muhammed Furkan Uysal
+190101038 Fatih Uzuntaş
+190101031 Aleyna Soyer
+180101060 Muhammet Emir Bulut
+170101031 Eda Nur Gümüş
+200101070 Emine Beyzanur Şen
+190101084 Canan Uzma
+190101054 Nuray Bayrakdar
+180101022 Şeyma Yıldırım
+180101028 Halil İbrahim Çamur
+190101048 Hüseyin Mete Çalışkan
+190101038 Fatih Uzuntaş
+190101051 Muhammed Berkay Çınar
+180101062 Şerefhan Dişek
+190101084 Canan Uzma
+190101071 Hacer Duz
+190101054 Nuray Bayrakdar
+200101025 Volkan Acar
+190101099 Hüseyin Uysal
+190101060 Ezgi Gün
+170101031 Eda Nur Gümüş
+180101051 Muhammet Emin Öztürk
+190101091 Merve Yavuz
+190101039 Sefa Köse
+190101028 Mert Kahraman
+180101022 Şeyma Yıldırım
+190101043 Yunus Emre Çiçek
+180101056 Emirhan Tavus
+180101052 İlkem Yaman
+190101025 Emir Yılmaz
+180101059 Medine İleyda Erdoğan
+190101040 Esra Özdemir
+170101034 Muharrem Ademoğlu
+180101048 Ayten Kocabıyık
+190101049 Ali Haydar Turgut
+180101023 Noyan Berkay Aşkın
+180101057 Emre Can Erol
+190101037 Berkay Küçük
+190101041 Ömer Baki
+190101080 Emir Kösekul
+190101097 Atilla Barlık
+180101040 Nedim Görgü
+180101060 Muhammet Emir Bulut
+190101047 Berk Savcıoğlu
+190101095 Gürkan Özgel
+190101031 Aleyna Soyer
+190101072 Yusuf Sami Kaygusuz
+190101050 Onur Arıkan
+180101082 Erdinç Karaman
+190101074 Furkan Korkmaz
+200101070 Emine Beyzanur Şen
+170101043 Zeyd Kadir Şen
+180101079 Emrah Çurku
+150101059 İbrahim Yolcu
+180101053 Zeynep Rana Uyar
+180101035 Özgür Aykutalp
+180101061 Oğuzhan Öztürk
+190101022 Fatih Mücahit Ulus
+190101090 Lütfi Yiğit Sağlam
+﻿
+180101005 Mücahit Sezgin
+190101032 Sude Özdemir
+170101049 Hasan Balcı
+170101040 Mahmut Furkan Yıldırım
+180101034 Hüseyin Doğdu
+200101047 Caner Yıldırım
+190101066 Melike Gülşah Uğurlu
+180101039 Muhammed Furkan Uysal
+190101026 Mehmet Alperen Civelekoğlu
+170101019 Batuhan Kahya
+180101021 Ali Yılmaz
+190101023 Bekir Tarık Pehlivan
+190101082 Fatih Şahin
+190101067 Aysu Deliahmetoğlu
+190101059 Furkan Koçak
+ 190101032 Sude Özdemir     
+ 190101050 Onur Arıkan     
+ 180101053 Zeynep Rana Uyar     
+ 180101022 Şeyma Yıldırım     
+ 190101084 Canan Uzma     
+ 170101040 Mahmut Furkan Yıldırım     
+ 190101066 Melike Gülşah Uğurlu     
+ 180101052 İlkem Yaman     
+ 190101023 Bekir Tarık Pehlivan     
+ 180101059 Medine İleyda Erdoğan     
+ 180101057 Emre Can Erol     
+ 180101062 Şerefhan Dişek     
+ 200101070 Emine Beyzanur Şen     
+ 190101022 Fatih Mücahit Ulus     
+ 180101082 Erdinç Karaman     
+ 190101091 Merve Yavuz     
+ 170101031 Eda Nur Gümüş     
+ 190101048 Hüseyin Mete Çalışkan     
+ 190101038 Fatih Uzuntaş     
+ 190101028 Mert Kahraman     
+ 190101047 Berk Savcıoğlu     
+ 190101037 Berkay Küçük     
+ 190101071 Hacer Duz     
+ 190101040 Esra Özdemir     
+ 170101019 Batuhan Kahya     
+ 170101049 Hasan Balcı     
+ 180101005 Mücahit Sezgin     
+ 190101072 Yusuf Sami Kaygusuz     
+ 180101021 Ali Yılmaz     
+ 190101090 Lütfi Yiğit Sağlam     
+ 190101060 Ezgi Gün     
+ 180101079 Emrah Çurku     
+ 180101056 Emirhan Tavus     
+ 190101051 Muhammed Berkay Çınar     
+ 180101051 Muhammet Emin Öztürk     
+ 170101034 Muharrem Ademoğlu     
+ 180101034 Hüseyin Doğdu     
+ 180101048 Ayten Kocabıyık     
+ 150101059 İbrahim Yolcu     
+ 190101025 Emir Yılmaz     
+ 190101026 Mehmet Alperen Civelekoğlu     
+ 190101041 Ömer Baki     
+ 170101043 Zeyd Kadir Şen    
+ 190101054 Nuray Bayrakdar     
+ 200101047 Caner Yıldırım     
+ 190101095 Gürkan Özgel     
+ 180101028 Halil İbrahim Çamur     
+ 190101031 Aleyna Soyer     
+ 180101035 Özgür Aykutalp     
+ 180101040 Nedim Görgü     
+﻿      
+ 190101049 Ali Haydar Turgut     
+ 190101099 Hüseyin Uysal     
+ 200101025 Volkan Acar     
+ 190101059 Furkan Koçak     
+ 190101080 Emir Kösekul     
+ 190101039 Sefa Köse     
+ 180101060 Muhammet Emir Bulut     
+ 180101023 Noyan Berkay Aşkın     
+ 190101043 Yunus Emre Çiçek     
+ 190101074 Furkan Korkmaz     
+ 180101061 Oğuzhan Öztürk     
+ 180101039 Muhammed Furkan Uysal     
+ 190101097 Atilla Barlık     
+ 190101082 Fatih Şahin     
+ 190101067 Aysu Deliahmetoğlu     

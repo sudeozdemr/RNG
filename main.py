@@ -3,6 +3,10 @@ import random
 import sys
 import logging
 
+if len(sys.argv) < 2 :
+        print("ERROR! You didn't enter a file path.")
+        sys.exit()
+        
 file_path = sys.argv[1] 
 
 previous_names = []
