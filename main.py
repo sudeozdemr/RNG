@@ -1,11 +1,15 @@
 import csv
 import random
 import sys
-import logging
 
-if len(sys.argv) < 2 :
-        print("ERROR! You didn't enter a file path.")
-        sys.exit(1)
+default_iteration_count = 16
+iteration_counter = 0
+
+if len(sys.argv) < 3 :
+    iteration_count = default_iteration_count
+    print(f"No iteration count provided, using default: {iteration_count}")
+else:
+    iteration_count = int(sys.argv[2])
         
 file_path = sys.argv[1] 
 
@@ -17,22 +21,20 @@ with open(file_path, 'r', newline='', encoding='utf-8') as file:
 
 random.shuffle(datas)
 
-iteration_count = 0
-
 for data in datas:
-    data_list= [data]
+    data_list= data
+
+    iteration_counter += 1
+
  
-    
     if data_list not in previous_names:
     
-        print(*data_list, end='')
+        print(*data_list, end = '')
         previous_names.append(data)
-        sude = input("")
+        press_this = input()
     
-        if sude == '0' or sude == 'q': 
+        if press_this == '0' or press_this == 'q': 
             break      
-        
-        iteration_count += 1
-        if iteration_count >=15 :  
-             break
-             
+       
+        if iteration_counter == iteration_count :  
+                break
