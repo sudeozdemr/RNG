@@ -1,6 +1,8 @@
 trial.py
+*.csv
 datacom_list.csv
 os_list.csv
+*.txt
 previous_names.txt
 requirements.txt
 menv
