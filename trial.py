@@ -14,14 +14,14 @@ else:
 file_path = sys.argv[1] 
 '''if file_path file path boş ise hata file path boş yazsın.'''
 
-with open(file_path, 'r', newline='', encoding='utf-8') as file: #with açılan dosyanın otomatik kapanmasını sağlar. 
+
+with open(file_path, 'r', newline='', encoding='utf-8') as file: 
     csv_readed = (csv.reader(file))
     datas = [line for line in csv_readed]
 
 random.shuffle(datas)
 
-for return_values in datas: #datas isimli listedeki elemanların her birini return_values değişkeni üzerinde tutarak bize teker teker getiriyor.
-    
+for return_values in datas: 
     iteration_counter += 1
     print(*return_values, end='')
     press_this = input()
@@ -32,14 +32,18 @@ for return_values in datas: #datas isimli listedeki elemanların her birini retu
     if iteration_counter == iteration_count :  
         break
 
-    previous_names = [return_values]
+    previous_names = []
+    previous_names.append(return_values)
+
     previous_names_filepath = "text.txt"
-    #print(previous_names)
+    print(*previous_names) 
 
 with open(previous_names_filepath, "w") as previous_names_file:
     for variable in previous_names:
-        string = str(variable)
+        string = ",".join(variable) + "\n"  
         previous_names_file.write(string)
+
+       
         
    
     
