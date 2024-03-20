@@ -1,3 +1,5 @@
+import pdb; pdb.set_trace()
+
 import csv
 import random
 import sys
@@ -36,7 +38,7 @@ for return_values in datas:
     previous_names.append(return_values)
 
     previous_names_filepath = "text.txt"
-    print(*previous_names) 
+    #print(*previous_names) 
 
 with open(previous_names_filepath, "w") as previous_names_file:
     for variable in previous_names:
