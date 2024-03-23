@@ -12,8 +12,6 @@ else:
     iteration_count = int(sys.argv[2])
         
 file_path = sys.argv[1] 
-'''if file_path file path boş ise hata file path boş yazsın.'''
-
 
 with open(file_path, 'r', newline='', encoding='utf-8') as file: 
     csv_readed = (csv.reader(file))
@@ -24,6 +22,17 @@ random.shuffle(datas)
 for return_values in datas: 
     iteration_counter += 1
     print(*return_values, end='')
+
+    previous_names = []
+    previous_names.append(return_values)
+
+    previous_names_filepath = "text.txt"
+
+    list_string = str(previous_names)
+    with open(previous_names_filepath, "w") as local_txt:
+        local_txt.write(list_string)
+
+        
     press_this = input()
 
     if press_this == '0' or press_this == 'q': 
@@ -31,14 +40,3 @@ for return_values in datas:
           
     if iteration_counter == iteration_count :  
         break
-
-    previous_names = []
-    previous_names.append(return_values)
-
-    previous_names_filepath = "text.txt"
-    #print(*previous_names) 
-
-with open(previous_names_filepath, "w") as previous_names_file:
-    for variable in previous_names:
-        string = ",".join(variable) + "\n"  
-        previous_names_file.write(string)
